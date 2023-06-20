@@ -56,8 +56,6 @@
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="30" alt="jira logo"  />
 </div>
 
 ###
@@ -70,6 +68,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
 </div>
 
 ###
@@ -79,9 +79,6 @@
 ###
 
 <div align="left">
-  <a href="goktugbaris02@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/goktugbaris/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
